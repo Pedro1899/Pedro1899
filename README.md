@@ -22,5 +22,5 @@ Welcome to my github account. I'm passionate about building fresh and innovated 
 
 
 ## Check out my latest project
+![new test](https://gph.is/g/4D8R80j)
 
-<img src="https://gph.is/g/4D8R80j" widht ="250" /> 
