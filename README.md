@@ -10,12 +10,12 @@ Welcome to my github account. I'm passionate about building fresh and innovated 
 
 ## Skills and experience
 
-⚛  ReactJs 
-🖥️ Node.js
-🍃 Spring boot  
-☕ Java
-🛠️ HTML
-🎨 CSS
+* ⚛  ReactJs 
+* 🖥️ Node.js
+* 🍃 Spring boot  
+* ☕ Java
+* 🛠️ HTML
+* 🎨 CSS
 
 
 - 🔭 I’m currently working on the support of my latest project : Digital School.
