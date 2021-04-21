@@ -24,6 +24,6 @@ Welcome to my github account. I'm passionate about building fresh and innovated 
 ## Check out my latest project: Digital School
 
 📊 https://dschool.netlify.app/
-🔑 How to use my app []
+🔑 How to use my app [https://howtousedigitalschool.netlify.app]
 
 
