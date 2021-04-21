@@ -21,6 +21,9 @@ Welcome to my github account. I'm passionate about building fresh and innovated 
 - 🔭 I’m currently working on the support of my latest project Digital School.
 
 
-## Check out my latest project
-![new test](https://gph.is/g/4D8R80j)
+## Check out my latest project: Digital School
+
+📊 https://dschool.netlify.app/
+🔑 How to use my app []
+
 
