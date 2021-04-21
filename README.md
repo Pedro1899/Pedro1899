@@ -18,4 +18,9 @@ Welcome to my github account. I'm passionate about building fresh and innovated 
 * 🎨 CSS
 
 
-- 🔭 I’m currently working on the support of my latest project : Digital School.
+- 🔭 I’m currently working on the support of my latest project Digital School.
+
+
+## Check out my latest project
+
+<img src="https://gph.is/g/4D8R80j" widht ="250" /> 
