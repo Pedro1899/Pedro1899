@@ -6,7 +6,7 @@
 
 # Hi there 👋, my name is Pedro Guzman 
 
-Welcome to my github account.I am passionate about building fresh and innovative ideas to make people's lives easier. I am interested in the latest software tools to stay in touch with the developer community. Currently im into ReactJS, Node.Js, Springboot and Express.js
+Welcome to my github account. I am passionate about building fresh and innovative ideas to make people's lives easier. I am interested in the latest software tools to stay in touch with the developer community. Currently im into ReactJS, Node.Js, Springboot and Express.js
 
 ## Skills and experience
 
